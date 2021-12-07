@@ -1,4 +1,4 @@
-![Ahoj platby Logo](/modules/ahojplatby/logo.png)
+![Ahoj platby Logo](https://raw.githubusercontent.com/ahoj-shopping/ahojplatby-magento-2/main/logo.png)
 # Ahoj platby - PHP SDK
 Kúp teraz, zaplať neskôr. Revolučné platobné riešenie mení svet online nákupov. Zvýšte si predaj a vyskúšajte Ahoj platby. 
 
